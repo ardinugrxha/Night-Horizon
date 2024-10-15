@@ -1,0 +1,21 @@
+{
+  "name": "night-horizon",
+  "displayName": "Night Horizon",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Horizon ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Horizon -color-theme.json"
+      }
+    ]
+  }
+}
