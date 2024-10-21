@@ -3,6 +3,7 @@
   "displayName": "Night Horizon",
   "publisher": "0xardi-n",
   "description": "",
+  "icon": "images/1.png",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.94.0"
