@@ -58,7 +58,7 @@
 		"editorLineNumber.foreground": "#d1cec260",
 		"editorLineNumber.activeForeground": "#d1cec2",
 		"editorCursor.background": "#22252E",
-		"editorCursor.foreground": "#56C2EA",
+		"editorCursor.foreground": "#09B0ED",
 		"editor.foreground": "#d1cec2",
 		"editor.wordHighlightBackground": "#283b64",
 		"editor.wordHighlightStrongBackground": "#283b64",
@@ -116,7 +116,7 @@
 		"extensionButton.prominentHoverBackground": "#30AAD7",
 		"terminal.foreground": "#d1cec2",
 		"terminal.ansiBlue": "#30AAD7",
-		"terminal.ansiBrightBlue": "#56C2EA",
+		"terminal.ansiBrightBlue": "#09B0ED",
 		"terminal.ansiBrightCyan": "#3CE8E6",
 		"terminal.ansiBrightGreen": "#0AF29D",
 		"terminal.ansiBrightMagenta": "#F360C4",
@@ -129,7 +129,7 @@
 		"terminal.ansiYellow": "#FAB795",
 		"terminal.selectionBackground": "#7c7f9bd8",
 		"terminalCursor.background": "#d1cec2",
-		"terminalCursor.foreground": "#56C2EA",
+		"terminalCursor.foreground": "#09B0ED",
 		"walkThrough.embeddedEditorBackground": "#232530",
 		"gitDecoration.addedResourceForeground": "#27D797CC",
 		"gitDecoration.modifiedResourceForeground": "#FAC39A",
@@ -214,7 +214,7 @@
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#56C2EA"
+        "foreground": "#09B0ED"
       }
     },
     {
@@ -288,7 +288,7 @@
       "name": "Lambda arrow",
       "scope": ["storage.type.function", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#56C2EA"
+        "foreground": "#09B0ED"
       }
     },
     {
