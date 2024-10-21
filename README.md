@@ -1,5 +1,3 @@
-Here's a sample `README.md` for your "Night Horizon" theme with a focus on its blue color palette:
-
 ---
 
 # Night Horizon - VS Code Theme
@@ -44,7 +42,7 @@ Feel free to tweak the theme to your liking:
 
 ## 🌐 Feedback & Contributions
 
-We would love to hear your feedback and suggestions! Feel free to report issues or contribute on our [GitHub repository](https://github.com/your-repo/night-horizon-theme).
+We would love to hear your feedback and suggestions! Feel free to report issues or contribute on our [GitHub repository](https://github.com/ardinugrxha/night-horizon).
 
 ---
 
