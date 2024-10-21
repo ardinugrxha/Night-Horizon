@@ -1,6 +1,6 @@
 # Night Horizon - Visual Studio Code Theme
 
-![Night Horizon Preview](https://github.com/ardinugrxha/night-horizon/blob/master/image/2.png)
+![Night Horizon Preview](https://github.com/ardinugrxha/night-horizon/blob/master/images/2.png)
 
 **Night Horizon** is a clean, elegant VS Code theme with a **blue-dominant** color palette, designed to provide a calming, distraction-free coding environment. This theme is perfect for developers who enjoy working in a cool-toned atmosphere, optimizing both aesthetics and readability.
 
