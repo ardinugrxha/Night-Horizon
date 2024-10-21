@@ -3,8 +3,8 @@
   "displayName": "Night Horizon",
   "publisher": "0xardi-n",
   "description": "",
-  "icon": "images/1.png",
-  "version": "0.0.3",
+  "icon": "images/2.png",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -20,6 +20,11 @@
       }
     ]
   },
+  "author": {
+		"name": "Ardi Nugraha",
+		"email": "0x4rd1@gmail.com",
+		"url": "https://www.linkedin.com/in/ardi-nugraha-5a6bb2175/"
+	},
   "repository": {
 		"url": "https://github.com/ardinugrxha/night-horizon.git",
 		"type": "git"
