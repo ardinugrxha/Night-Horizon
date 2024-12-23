@@ -46,6 +46,6 @@ We would love to hear your feedback and suggestions! Feel free to report issues 
 
 ---
 
-Enjoy coding in **Night Horizon**, where the calm blue tones meet clarity and focus. ✨
+Enjoy coding  ✨
 
 ---
